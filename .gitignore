@@ -1,0 +1,4 @@
+previous_followers.json
+session-*
+__pycache__/
+*.pyc
